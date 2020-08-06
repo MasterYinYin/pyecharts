@@ -10,7 +10,7 @@ No handlers could be found for logger "lml.utils"
 卸载已有lml版本，使用0.0.2版就不会出现该项警告
 
 卸载原版本
-`pip uninstall iml`
+`pip uninstall lml`
 
 安装0.0.2版本
 `pip install lml==0.0.2`
